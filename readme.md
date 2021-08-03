@@ -8,8 +8,12 @@
     - [快速幂(取模)]()
 - [数据结构](./数据结构.md)
     - [树状数组](./数据结构.md#树状数组)
-- [最短路](./最短路.md)
-    - [Dijistra](./最短路.md#Dijkstra)
-    - [Bellman-Ford](./最短路.md#Bellman-Ford)
+- **图论**
+    - [并查集](./生成树.md#并查集)
+    - **最短路**
+        - [Dijistra](./最短路.md#Dijkstra)
+        - [Bellman-Ford](./最短路.md#Bellman-Ford)
+        - [建图技巧](./最短路.md#建图技巧)
+    - **最小生成树**
+        - [Kruskal](./生成树.md#Kruskal)
 - [哈希]()
-- [最小生成树]()
