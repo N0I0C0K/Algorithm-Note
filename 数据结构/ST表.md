@@ -30,7 +30,7 @@ const int maxn = 100005;
 
 int a[maxn] = {};
 int lg[maxn] = {-1};     //预处理log_2_(x)
-int mmax[maxn][50] = {}; //表示mmax[i][j]表示 a[i][i+2^j-1]区间内的最大值
+int mmax[maxn][50] = {}; //表示mmax[i][j]表示 a[i:i+2^j-1]区间内的最大值
 
 int main()
 {
